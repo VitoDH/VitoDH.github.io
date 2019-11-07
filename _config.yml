@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: vitodhzzz@gmail.com
 description: "Data ScienTist - Decent Story Teller who Don't Stop Tuning"
 keyword: "Machine Learning, Deep Learning, Data Science"
-url: "http://vitodhzzz.tech"              # your host, for absolute URL
+url: "https://www.linkedin.com/in/vitodh/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -18,7 +18,7 @@ zhihu_username:
 github_username:    VitoDH
 twitter_username:   
 #facebook_username:  huxpro
-linkedin_username:  Vito-Liu
+linkedin_username:  vitodh
 
 
 
