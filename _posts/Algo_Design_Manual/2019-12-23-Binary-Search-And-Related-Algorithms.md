@@ -1,3 +1,5 @@
+# Chapter 4 - Sorting and Searching - 4 - Binary Search
+
 
 
 ## 1. Definition 
