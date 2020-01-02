@@ -7,8 +7,6 @@
 
 
 
-
-
 ## 1. Unit of Diversion
 
 How to define a individual subject in the experiment?
