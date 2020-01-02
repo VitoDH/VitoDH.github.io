@@ -39,13 +39,13 @@ Less common options
 
 In the following table, "1" means if the user use the unit of diversion in the first column for the following events, they might be switched from experiment to control or vice versa. Blank means they will stay in the same group. "?" means not sure.
 
-|            |                 Desktop Homepage                 |          Sign In          |  Visit Class   | Watch Video(Desktop) | Mobile(Auto Sign In) | Watch Video(mobile) |
-| :--------: | :----------------------------------------------: | :-----------------------: | :------------: | :------------------: | :------------------: | :-----------------: |
-|  user-id   | Can't assign user to a group before they sign in |             1             |                |                      |                      |                     |
-|   cookie   |                        1                         | ?(could clear the cookie) |       ?        |          ?           |          1           |          ?          |
-|   event    |                        1                         |             1             |       1        |          1           |          1           |          1          |
-| device-id  |                  Not applicable                  |      Not applicable       | Not applicable |    Not applicable    |          1           |                     |
-| IP Address |                        1                         |             ?             |       ?        |          ?           |          ?           |          ?          |
+|            |                 Desktop Homepage                 |          Sign In          |  Visit Class   |  Watch Video(PC)   | Mobile(Auto SignIn) | Watch Video(mobile) |
+| :--------: | :----------------------------------------------: | :-----------------------: | :------------: | :----------------: | :-----------------: | :-----------------: |
+|  user-id   | Can't assign user to a group before they sign in |             1             |                |                    |                     |                     |
+|   cookie   |                        1                         | ?(could clear the cookie) |       ?        |         ?          |          1          |          ?          |
+|   event    |                        1                         |             1             |       1        |         1          |          1          |          1          |
+| device-id  |                  Not applicable                  |      Not applicable       | Not applicable | Not     applicable |          1          |                     |
+| IP Address |                        1                         |             ?             |       ?        |         ?          |          ?          |          ?          |
 
 
 
