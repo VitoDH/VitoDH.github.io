@@ -33,7 +33,7 @@ To do this, we should check
 |                                                              | \# signed in users | \# cookies | \# events | \# CTR on "Start now" | \# Time to complete |
 | :----------------------------------------------------------: | :----------------: | :--------: | :-------: | :-------------------: | :-----------------: |
 | Changes order of courses in course list (unit of diversion: user-id) |         1          |     1      |     1     |           1           |                     |
-| Changes infrastructure to reduce load time (unit of diversion: event) |                    |            |           |                       |                     |
+| Changes infrastructure to reduce load time (unit of diversion: event) |         1          |     1      |     1     |           1           |                     |
 
 * For case 1, 
   * \# signed in users is a good population sizing metric
